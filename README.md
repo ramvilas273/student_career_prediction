@@ -34,12 +34,19 @@ Based on these features, the model predicts possible careers such as:
 # 🧠 Machine Learning Workflow
 
 1️⃣ Data Collection
+
 2️⃣ Data Cleaning & Preprocessing
+
 3️⃣ Feature Encoding
+
 4️⃣ Feature Scaling
-5️⃣ Model Training (Random Forest)
+
+5️⃣ Model Training
+
 6️⃣ Hyperparameter Tuning
+
 7️⃣ Model Evaluation
+
 8️⃣ Streamlit Web App Deployment
 
 ---
@@ -135,7 +142,7 @@ student-career-prediction
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/student-career-prediction.git
+git clone(https://github.com/ramvilas273/student_career_prediction/tree/main)
 cd student-career-prediction
 ```
 
@@ -197,6 +204,7 @@ GitHub: https://github.com/YOUR_USERNAME
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+
 
 
 
