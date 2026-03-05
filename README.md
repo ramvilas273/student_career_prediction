@@ -81,8 +81,7 @@ Why Random Forest?
 
 | Metric                 | Score |
 | ---------------------- | ----- |
-| Cross Validation Score | ~0.68 |
-| Test Accuracy          | ~0.69 |
+| Cross Validation Score | ~0.85 |
 
 ---
 
@@ -198,5 +197,6 @@ GitHub: https://github.com/YOUR_USERNAME
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+
 
 
