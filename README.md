@@ -195,15 +195,16 @@ The app will open in your browser.
 **Ram Vilas**
 
 B.Tech Information Technology
-Data Science Graduate – DataMites
+Aspiring Data Scientist
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [https://github.com/ramvilas273]
 
 ---
 
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+
 
 
 
